@@ -17,7 +17,7 @@ convert background.png -gravity Center -size 270 -pointsize 24 -fill black -anno
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #10 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/Pirate_Doom.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #11 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/La_Tailor_Girl.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #11 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/Psychic.png
-convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #11 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/The_Ghoul’s_Forest_3.png
+convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #11 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/The_Ghoul_s_Forest_3.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #11 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/Urban_Brawl:_Action_Doom_2.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #12 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/ouch_m_2:_abort_m.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #13 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/Daytime_Drama.png
@@ -45,7 +45,7 @@ convert background.png -gravity Center -size 270 -pointsize 24 -fill black -anno
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #16 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/Juvenile_Power_Fantasy.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #16 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/Project_Einherjar.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #16 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/Quake_Champions:_Doom_Edition.png
-convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #16 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/Spooky’s_House_of_Jump_Scares_TC.png
+convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #16 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/Spooky_s_House_of_Jump_Scares_TC.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #16 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/SpriteShadow.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #16 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/Strange_Aeons.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #16 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/Sun_Damage_Omen.png
@@ -108,3 +108,4 @@ convert background.png -gravity Center -size 270 -pointsize 24 -fill black -anno
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #18 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/Tilt++.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #18 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/WARDUST_heretic_Sprites.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #18 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/Zero_Tolerance.png
+optipng pngs/*
