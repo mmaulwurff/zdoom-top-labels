@@ -45,11 +45,11 @@ convert background.png -gravity Center -size 270 -pointsize 24 -fill black -anno
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #41 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/Lithium.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #45 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/Beautiful_Doom.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #45 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/Burl_Tumd.png
+convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #45 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/Hunter’s_Moon.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #45 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/Juvenile_Power_Fantasy.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #45 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/Project_Einherjar.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #45 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/Quake_Champions:_Doom_Edition.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #45 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/Redux_E2M4.png
-convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #45 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/Spooky_s_House_of_Jump_Scares_TC.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #45 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/SpriteShadow.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #45 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/Strange_Aeons.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #45 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/Sun_Damage_Omen.png
@@ -114,7 +114,7 @@ convert background.png -gravity Center -size 270 -pointsize 24 -fill black -anno
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #79 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/scalliano_s_667_Shuffle.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #79 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/Smooth_Doom.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #79 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/Smooth_fluids.png
-convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #79 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/https://www.doomworld.com/forum/topic/71133-sound-caulking-now-on-idgames/.png
+convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #79 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/Sound_Caulking.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #79 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/TGRDM3__Morgenstern_.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #79 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/The_Trooper.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #79 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' pngs/Tilt++.png
