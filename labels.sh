@@ -1,4 +1,6 @@
 #!/bin/bash
+rm png/*
+
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #1 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' png8:pngs/Hideous_Destructor.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #2 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' png8:pngs/DoomRL_Arsenal.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #3 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' png8:pngs/Guncaster.png
@@ -156,4 +158,4 @@ convert background.png -gravity Center -size 270 -pointsize 24 -fill black -anno
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #89 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' png8:pngs/Tilt++.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #89 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' png8:pngs/Unloved.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #89 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' png8:pngs/WARDUST_heretic_Sprites.png
-optipng pngs/*
+optipng -strip all pngs/*
