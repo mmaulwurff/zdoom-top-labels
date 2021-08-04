@@ -3,7 +3,7 @@ rm pngs/*
 
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #1 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' png8:pngs/Hideous_Destructor.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #2 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' png8:pngs/DoomRL_Arsenal.png
-convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #3 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' png8:pngs/Project_Brutality.png
+convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #2 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' png8:pngs/Project_Brutality.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #4 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' png8:pngs/Guncaster.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #5 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' png8:pngs/Quake_Champions:_Doom_Edition__QCDE_.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #5 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' png8:pngs/The_Trailblazer.png
@@ -201,6 +201,7 @@ convert background.png -gravity Center -size 270 -pointsize 24 -fill black -anno
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #178 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' png8:pngs/Custom_Crosshair_Pack_.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #178 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' png8:pngs/Dark_7__with_Mission_Pack_.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #178 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' png8:pngs/DarkDoomZ.png
+convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #178 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' png8:pngs/Darkmoon.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #178 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' png8:pngs/Dawn_of_Reality.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #178 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' png8:pngs/Demonsteele:_NowThatsWhatICallMIDI.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #178 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' png8:pngs/Don’t_play_with_HELL_–_Black_Edition.png
@@ -238,6 +239,7 @@ convert background.png -gravity Center -size 270 -pointsize 24 -fill black -anno
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #178 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' png8:pngs/Lizard_Squad.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #178 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' png8:pngs/LOST_SOULSPHERE:_Gold_Edition.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #178 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' png8:pngs/Lowtech_Remake.png
+convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #178 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' png8:pngs/Lt._Typhon.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #178 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' png8:pngs/MAIS.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #178 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' png8:pngs/Malice.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #178 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' png8:pngs/Megabounce.png
@@ -276,5 +278,4 @@ convert background.png -gravity Center -size 270 -pointsize 24 -fill black -anno
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #178 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' png8:pngs/Xim_s_Star_Wars_Doom.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #178 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' png8:pngs/Zion.png
 convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #178 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' png8:pngs/ZMovement.png
-convert background.png -gravity Center -size 270 -pointsize 24 -fill black -annotate +0-14 'Voted #178 mod' -pointsize 20 -fill white -annotate +0+18 'by ZDoom Community' png8:pngs/Darkmoon.png
 optipng -strip all pngs/*
